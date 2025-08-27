@@ -55,21 +55,21 @@ npm run preview
 - Include `withCredentials: true` in Axios if using cookies.
 
 ## Screenshots
-###LOGIN
+### LOGIN
 ![Login](public/screenshots/login.png)
-###DASHBOARD
+### DASHBOARD
 ![Dashboard](public/screenshots/dashboard.png)
-###PENDING DEVICES
+### PENDING DEVICES
 ![Pending Devices](public/screenshots/pending-devices.png)
-###APPROVED REQUESTS
+### APPROVED REQUESTS
 ![Approved Requests](public/screenshots/approved-requests.png)
-###ALL DEVICES
+### ALL DEVICES
 ![All Devices](public/screenshots/all-devices.png)
-###USERS
+### USERS
 ![Users](public/screenshots/users.png)
-###DEVICE DETAIL
+### DEVICE DETAIL
 ![Device Detail](public/screenshots/device-detail.png)
-###THEME SHOWCASE
+### THEME SHOWCASE
 ![Theme Showcase](public/screenshots/theme-showcase.png)
 
 
