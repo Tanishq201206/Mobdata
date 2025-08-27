@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+*.log
+
+# Mac/Win
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+
+# Docs output
+docs/dist/

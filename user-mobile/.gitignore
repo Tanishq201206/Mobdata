@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Native build artifacts (recreated on developer machines)
+android/
+ios/
+
+# Expo / RN cache
+.expo/
+.bundle/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keys / secrets
+*.keystore
+*.jks
+*.p8
+*.p12
+*.pem
+.keystore
+.keystore.properties
+google-services.json
+GoogleService-Info.plist
