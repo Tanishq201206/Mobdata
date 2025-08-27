@@ -95,34 +95,22 @@ But by default this project expects a constant in `services/api.js`.
 - `POST /data/submit`
 
 ## 🖼️ Screenshots
-
-Create a folder: `assets/screenshots/` and add the following (filenames are important for the README references):
 - `login.png`
+  ![Login](assets/screenshots/login.png)
 - `verify-otp.png`
+  ![Verify OTP](assets/screenshots/verify-otp.png)
 - `setup-mfa.png`
-- `set-new-password.png` (if applicable)
+  ![Setup MFA](assets/screenshots/setup-mfa.png)
+- `set-new-password.png` 
+  ![Set New Password](assets/screenshots/set-new-password.png)
 - `register-device.png`
+  ![Register Device](assets/screenshots/register-device.png)
 - `status.png` (shows overall user status)
+  ![Status](assets/screenshots/status.png)
 - `request-permission.png`
+  ![Request Permission](assets/screenshots/request-permission.png)
 - `send-data.png`
-
-## Screenshots
-LOGIN
-![Login](assets/screenshots/login.png)
-VERIFY OTP
-![Verify OTP](assets/screenshots/verify-otp.png)
-SETUP MFA
-![Setup MFA](assets/screenshots/setup-mfa.png)
-SET NEW PASSWORD
-![Set New Password](assets/screenshots/set-new-password.png)
-REGISTER DEVICE
-![Register Device](assets/screenshots/register-device.png)
-STATUS
-![Status](assets/screenshots/status.png)
-REQUSET PERMISSION
-![Request Permission](assets/screenshots/request-permission.png)
-SEND DATA
-![Send Data](assets/screenshots/send-data.png)
+  ![Send Data](assets/screenshots/send-data.png)
 
 
 ## 🧹 Cleaning Unused Files
