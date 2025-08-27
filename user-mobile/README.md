@@ -95,21 +95,21 @@ But by default this project expects a constant in `services/api.js`.
 - `POST /data/submit`
 
 ## 🖼️ Screenshots
-- login.png
+### LOGIN
   ![Login](assets/screenshots/login.png)
-- verify-otp.png
+### VERIFY OTP
   ![Verify OTP](assets/screenshots/verify-otp.png)
-- setup-mfa.png
+### SETUP MFA
   ![Setup MFA](assets/screenshots/setup-mfa.png)
-- set-new-password.png
+### SET NEW PASSWORD
   ![Set New Password](assets/screenshots/set-new-password.png)
-- register-device.png
+### REGISTER DEVICE
   ![Register Device](assets/screenshots/register-device.png)
-- status.png (shows overall user status)
+### STATUS
   ![Status](assets/screenshots/status.png)
-- request-permission.png
+### REQUEST PERMISSION
   ![Request Permission](assets/screenshots/request-permission.png)
-- send-data.png
+### SEND DATA
   ![Send Data](assets/screenshots/send-data.png)
 
 
