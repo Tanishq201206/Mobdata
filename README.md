@@ -1,13 +1,5 @@
 # MobData — Backend + Admin (React) + User Mobile (React Native)
 
-## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-green)
-![React](https://img.shields.io/badge/React-18-blue)
-![React Native](https://img.shields.io/badge/React%20Native-0.7x-lightblue)
-![MySQL](https://img.shields.io/badge/MySQL-8-blue)
-![JWT](https://img.shields.io/badge/JWT-Security-yellow)
-![MFA](https://img.shields.io/badge/MFA-TOTP%2FOTP-purple)
 
 This monorepo contains all three parts of **MobData**.
 
