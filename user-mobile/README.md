@@ -107,14 +107,21 @@ Create a folder: `assets/screenshots/` and add the following (filenames are impo
 - `send-data.png`
 
 ## Screenshots
-
+LOGIN
 ![Login](assets/screenshots/login.png)
+VERIFY OTP
 ![Verify OTP](assets/screenshots/verify-otp.png)
+SETUP MFA
 ![Setup MFA](assets/screenshots/setup-mfa.png)
+SET NEW PASSWORD
 ![Set New Password](assets/screenshots/set-new-password.png)
+REGISTER DEVICE
 ![Register Device](assets/screenshots/register-device.png)
+STATUS
 ![Status](assets/screenshots/status.png)
+REQUSET PERMISSION
 ![Request Permission](assets/screenshots/request-permission.png)
+SEND DATA
 ![Send Data](assets/screenshots/send-data.png)
 
 
@@ -128,5 +135,4 @@ Create a folder: `assets/screenshots/` and add the following (filenames are impo
 - **CORS / Unauthorized** → ensure backend CORS allows your origin / device and that you send the JWT (Bearer) from the app.
 - **Build errors on a fresh clone** → run `npm install`, then clean caches: `cd android && ./gradlew clean` (macOS/Linux) or from Android Studio.
 
-## 📝 License
-MIT (or your chosen license at repo root).
+
