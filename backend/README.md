@@ -230,8 +230,4 @@ java -jar target/mobdata-0.0.1-SNAPSHOT.jar   --spring.datasource.username=YOUR_
 - **Indexes/Uniqueness**: Ensure device uniqueness (uuid/IMEI) and user constraints in DB.
 - **Logging**: Disable `show-sql` in production.
 
----
 
-## License
-
-MIT (recommended for public repos) — or your preferred license.
