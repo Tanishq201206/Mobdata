@@ -54,32 +54,24 @@ npm run preview
 - On 401/403, redirect to `/login`.
 - Include `withCredentials: true` in Axios if using cookies.
 
-## 📸 Screenshots to Include
-Create: `admin-frontend/public/screenshots/` (or `admin-frontend/docs/screenshots/`) and save with these filenames:
-
-1. `login.png` — Admin login screen
-2. `dashboard.png` — Overview cards/tables
-3. `pending-devices.png` — Pending device approvals
-4. `approved-requests.png` — Approved data requests table
-5. `all-devices.png` — All devices list with status pills
-6. `users.png` — Users list/table
-7. `device-detail.png` — (If you have a detail view) device info + actions
-8. `theme-showcase.png` — Example page showing Royal Green theme in UI
-
-Add to README:
-
-```md
 ## Screenshots
+### LOGIN
 ![Login](public/screenshots/login.png)
+### DASHBOARD
 ![Dashboard](public/screenshots/dashboard.png)
+### PENDING DEVICES
 ![Pending Devices](public/screenshots/pending-devices.png)
+### APPROVED REQUESTS
 ![Approved Requests](public/screenshots/approved-requests.png)
+### ALL DEVICES
 ![All Devices](public/screenshots/all-devices.png)
+### USERS
 ![Users](public/screenshots/users.png)
+### DEVICE DETAIL
 ![Device Detail](public/screenshots/device-detail.png)
+### THEME SHOWCASE
 ![Theme Showcase](public/screenshots/theme-showcase.png)
 
-```
 
 ## 🧪 API Endpoints (example mapping)
 - `GET /admin/devices/pending`

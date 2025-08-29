@@ -95,27 +95,22 @@ But by default this project expects a constant in `services/api.js`.
 - `POST /data/submit`
 
 ## 🖼️ Screenshots
-
-Create a folder: `assets/screenshots/` and add the following (filenames are important for the README references):
-- `login.png`
-- `verify-otp.png`
-- `setup-mfa.png`
-- `set-new-password.png` (if applicable)
-- `register-device.png`
-- `status.png` (shows overall user status)
-- `request-permission.png`
-- `send-data.png`
-
-## Screenshots
-
-![Login](assets/screenshots/login.png)
-![Verify OTP](assets/screenshots/verify-otp.png)
-![Setup MFA](assets/screenshots/setup-mfa.png)
-![Set New Password](assets/screenshots/set-new-password.png)
-![Register Device](assets/screenshots/register-device.png)
-![Status](assets/screenshots/status.png)
-![Request Permission](assets/screenshots/request-permission.png)
-![Send Data](assets/screenshots/send-data.png)
+### LOGIN
+  ![Login](assets/screenshots/login.png)
+### VERIFY OTP
+  ![Verify OTP](assets/screenshots/verify-otp.png)
+### SETUP MFA
+  ![Setup MFA](assets/screenshots/setup-mfa.png)
+### SET NEW PASSWORD
+  ![Set New Password](assets/screenshots/set-new-password.png)
+### REGISTER DEVICE
+  ![Register Device](assets/screenshots/register-device.png)
+### STATUS
+  ![Status](assets/screenshots/status.png)
+### REQUEST PERMISSION
+  ![Request Permission](assets/screenshots/request-permission.png)
+### SEND DATA
+  ![Send Data](assets/screenshots/send-data.png)
 
 
 ## 🧹 Cleaning Unused Files
@@ -128,5 +123,4 @@ Create a folder: `assets/screenshots/` and add the following (filenames are impo
 - **CORS / Unauthorized** → ensure backend CORS allows your origin / device and that you send the JWT (Bearer) from the app.
 - **Build errors on a fresh clone** → run `npm install`, then clean caches: `cd android && ./gradlew clean` (macOS/Linux) or from Android Studio.
 
-## 📝 License
-MIT (or your chosen license at repo root).
+

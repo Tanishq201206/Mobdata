@@ -151,22 +151,6 @@ Use `Authorization: Bearer <JWT>` if not using cookie-based flow.
 
 ---
 
-## Screenshots to Include
-
-Create a folder: `docs/screenshots/` inside the backend project. Save these with the exact filenames so they auto-reference from this README.
-
-1. **`db-schema.png`** — Tables overview / ERD in MySQL Workbench.
-2. **`postman-register.png`** — Successful `/auth/register` request.
-3. **`postman-login.png`** — `/auth/login` response (with/without MFA prompt).
-4. **`postman-verify-otp.png`** — `/auth/verify-otp` showing success/JWT.
-5. **`postman-device-register.png`** — `/device/register` success (token, flags).
-6. **`admin-approve-device.png`** — `/admin/devices/approve/{deviceId}` result.
-7. **`postman-request-permission.png`** — `/data/request-permission/{deviceId}`.
-8. **`admin-approve-data-request.png`** — `/admin/data-requests/approve/{requestId}`.
-9. **`postman-submit-data.png`** — `/data/submit` success.
-10. **`mfa-qr.png`** — The QR image generated for TOTP (if you export it to a file).
-11. **`cookie-or-bearer.png`** — Example showing JWT in cookie vs Authorization header.
-
 ## 📸 Screenshots
 
 ### Database
@@ -230,8 +214,4 @@ java -jar target/mobdata-0.0.1-SNAPSHOT.jar   --spring.datasource.username=YOUR_
 - **Indexes/Uniqueness**: Ensure device uniqueness (uuid/IMEI) and user constraints in DB.
 - **Logging**: Disable `show-sql` in production.
 
----
 
-## License
-
-MIT (recommended for public repos) — or your preferred license.
