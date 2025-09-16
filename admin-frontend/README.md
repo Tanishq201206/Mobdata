@@ -25,9 +25,6 @@ A modern admin portal to manage MobData users, devices, and data requests.
 # Install deps
 npm install
 
-# Dev
-npm run dev   # (Vite)  -> http://localhost:5173
-# or
 npm start     # (CRA)   -> http://localhost:3000
 
 # Build
