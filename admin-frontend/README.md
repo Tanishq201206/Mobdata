@@ -96,8 +96,7 @@ npm run lint
 npm run format
 ```
 
-## 🧱 Build Artifacts
-- Vite output: `dist/`
+## 🧱 Build Artifact
 - CRA output: `build/`
 
 ## 📦 Deployment
